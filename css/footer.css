@@ -1,0 +1,31 @@
+.bottom{
+	width:100%;
+	margin-top:10px;
+}
+.footer{
+	width:1000px;
+	height:160px;
+	margin:0 auto;
+	background:#8E8E8E;
+}
+.footer .ul_one>.li_one{
+	float:left;
+	width:200px;
+	text-align:center;
+}
+.footer .ul_one .li_one:last-child{
+	background:none;
+}
+.footer .ul_one .li_one{
+	margin:20px 0px;
+	display:inline-block;
+	height:120px;
+	line-height:20px;
+   background:url(../img/line.png) no-repeat right;
+}
+.footer .ul_one .li_one:last-child a>img{
+	vertical-align: top;
+}
+.footer .ul_one .li_one ul li a{
+	font-size:12px;
+}

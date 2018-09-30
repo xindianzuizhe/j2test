@@ -1,0 +1,32 @@
+.ad{
+	height:310px;
+	margin-top:10px;
+	overflow:hidden;
+}
+.content_show{
+	height:400px;
+	margin-top:50px;
+	background:whitesmoke;
+}
+.content_show_title h2{
+	font-size:30px;
+	color:#8E8E8E;
+	margin-bottom:5px;
+}
+.content_show_message ul li{
+	float:left;
+	text-align: center;
+	margin-top:30px;
+	padding-left: 20px;
+	margin-left:50px;
+}
+.content_show_message ul li>a{
+	display:block;
+	color:black;
+}
+.content_show_message ul li a p{
+	font-size:15px;
+}
+.content_show_message ul li>a:hover{
+	color:gold;
+}

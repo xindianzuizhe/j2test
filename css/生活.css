@@ -1,0 +1,10 @@
+.life_show{
+	height:400px;
+	background:yellow;
+}
+.life_show .title{
+	font-size:30px;
+	color:#8E8E8E;
+	padding-top:10px;
+	margin-bottom:20px;
+}
